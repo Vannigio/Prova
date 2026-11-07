@@ -1,0 +1,2 @@
+assemblyai>=0.40
+streamlit>=1.40
